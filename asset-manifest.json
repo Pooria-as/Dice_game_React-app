@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dice_game_React-app/static/css/main.f50fafcc.chunk.css",
+    "main.js": "/Dice_game_React-app/static/js/main.0098b0f4.chunk.js",
+    "main.js.map": "/Dice_game_React-app/static/js/main.0098b0f4.chunk.js.map",
+    "runtime-main.js": "/Dice_game_React-app/static/js/runtime-main.0e37e3fc.js",
+    "runtime-main.js.map": "/Dice_game_React-app/static/js/runtime-main.0e37e3fc.js.map",
+    "static/js/2.b6b0aea6.chunk.js": "/Dice_game_React-app/static/js/2.b6b0aea6.chunk.js",
+    "static/js/2.b6b0aea6.chunk.js.map": "/Dice_game_React-app/static/js/2.b6b0aea6.chunk.js.map",
+    "index.html": "/Dice_game_React-app/index.html",
+    "static/css/main.f50fafcc.chunk.css.map": "/Dice_game_React-app/static/css/main.f50fafcc.chunk.css.map",
+    "static/js/2.b6b0aea6.chunk.js.LICENSE.txt": "/Dice_game_React-app/static/js/2.b6b0aea6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e37e3fc.js",
+    "static/js/2.b6b0aea6.chunk.js",
+    "static/css/main.f50fafcc.chunk.css",
+    "static/js/main.0098b0f4.chunk.js"
+  ]
+}
